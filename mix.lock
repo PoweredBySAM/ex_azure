@@ -1,4 +1,4 @@
 %{"earmark": {:hex, :earmark, "0.2.1", "ba6d26ceb16106d069b289df66751734802777a3cbb6787026dd800ffeb850f3", [:mix], []},
-  "erlazure": {:git, "https://github.com/PoweredBySAM/erlazure.git", "1a7b50242b0fabd9a3f39f3c5e616abbc49a5b69", []},
+  "erlazure": {:git, "https://github.com/PoweredBySAM/erlazure.git", "ef690e400c62ed6a301be3e827d8d8dbef4dd9c9", [branch: "bugs/jsx-version"]},
   "ex_doc": {:hex, :ex_doc, "0.11.5", "0dc51cb84f8312162a2313d6c71573a9afa332333d8a332bb12540861b9834db", [:mix], [{:earmark, "~> 0.1.17 or ~> 0.2", [hex: :earmark, optional: true]}]},
-  "jsx": {:hex, :jsx, "2.6.2", "213721e058da0587a4bce3cc8a00ff6684ced229c8f9223245c6ff2c88fbaa5a", [:mix, :rebar], []}}
+  "jsx": {:hex, :jsx, "2.8.0", "749bec6d205c694ae1786d62cea6cc45a390437e24835fd16d12d74f07097727", [:mix, :rebar], []}}

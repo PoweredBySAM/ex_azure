@@ -21,7 +21,7 @@ defmodule ExAzure.Mixfile do
 
   defp deps do
     [
-      {:erlazure, github: "PoweredBySAM/erlazure", manager: :rebar},
+      {:erlazure, github: "PoweredBySAM/erlazure", branch: "bugs/jsx-version", manager: :rebar},
       {:ex_doc  , "~> 0.11.5", only: [:dev, :test]},
       {:earmark , "~> 0.2.1" , only: [:dev, :test]},
     ]
